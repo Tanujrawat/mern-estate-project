@@ -3,3 +3,5 @@ export const test = (req, res) => {
       message: "hello world",
     });
 };
+//req - request from client
+//res- response from backend server
